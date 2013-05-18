@@ -1,0 +1,16 @@
+---
+layout: participant
+title:  Neil Ahrendt
+username: ne8il
+company: Jesubi
+hometown: Carmel, IN
+tags:
+- javascript
+---
+
+<!-- Tell us a little about yourself. -->
+
+slothlike
+
+<!-- Tell us something interesting. -->
+
